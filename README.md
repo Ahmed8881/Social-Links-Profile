@@ -16,4 +16,4 @@ A challenge on FrontEnd Mentor
 <img src="https://github.com/user-attachments/assets/515d8b75-f1c0-4721-8065-967ffa8a7b56" alt="Mobile View" width="350" height="600">
 
 ### Active View
-<img src="https://github.com/user-attachments/assets/3455b3bd-95d8-49b6-8bb7-43e8852158fa" alt="Active View" width="600" height="350">
+<img src="https://github.com/user-attachments/assets/3455b3bd-95d8-49b6-8bb7-43e8852158fa" alt="Active View" width="400" height="350">
